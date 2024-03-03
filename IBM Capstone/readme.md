@@ -5,10 +5,12 @@
 
 
 **Space X** is one of the largest companies that utilizes reusable rockets, esp. Falcon 9 rocket. Falcon 9 that costs 
-around 62$ million to go on voyage to the International Space Station to provide Starlink satellite internet constellation 
+around 62$ million to go on voyage to **the International Space Station** to provide Starlink satellite internet constellation 
 that provides a fast internet connect. Other providers cost upwards of 165 % million. 
 Much of Space X’s saving is due to the reusability of their rockets.
 
+<h2>Aim</h2>
+What we seek is that if we could determine if the first stage will land, we can determine the cost of the launch.
 
 <h2> ToC </h2>
 
