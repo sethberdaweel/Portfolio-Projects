@@ -1,6 +1,7 @@
 <h1>Data Science Capstone Project for IBM Data Science Certification</h1>
 
-<h1> Space X Falcon 9 First Stage Landing Prediction</h1>
+
+<h2> Space X Falcon 9 First Stage Landing Prediction</h2>
 
 
 **Space X** is one of the largest companies that utilizes reusable rockets, esp. Falcon 9 rocket. Falcon 9 that costs 
@@ -30,3 +31,14 @@ Much of Space X’s saving is due to the reusability of their rockets.
   - SVM
   - Decision Tree
   - KNN
+
+
+<h2>Credits: </h2>
+
+* Saad Berdaweel
+* IBM Developer Skills Network
+
+
+<b>04/03/2024</b>
+
+
