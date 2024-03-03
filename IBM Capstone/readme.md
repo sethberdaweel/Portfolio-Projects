@@ -25,4 +25,8 @@ Much of Space X’s saving is due to the reusability of their rockets.
 
 * Interactive Map for Launch Sites
 
-* Predictive Analysis (HEI)
+* Predictive Analysis
+  - LR
+  - SVM
+  - Decision Tree
+  - KNN
